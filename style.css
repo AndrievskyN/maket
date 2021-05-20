@@ -110,13 +110,13 @@ input[type="number"] {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
-	margin-top: 120px;
+	margin-top: 130px;
 }
 
 .navigation {
 	position: absolute;
-	bottom: 50px;
-	left: 50px;
+	bottom: 2px;
+	left: 350px;
 	transform: translateX(-50%);
 	display: flex;
 }
